@@ -1,8 +1,8 @@
 -Eu sou Guilherme
--Estudo python
+-Estudo front-end
 -sou iniciante na programação 
 -meu objetivo é aprender com o a galera...
--por favor,me contratem!
+-meu desejo é fazer parte do seu projeto!
 
 
 
